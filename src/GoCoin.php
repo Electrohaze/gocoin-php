@@ -7,7 +7,7 @@ if ( !defined('__DIR__') ) define('__DIR__', dirname(__FILE__));
 
 class GoCoin
 {
-  const VERSION = '0.6';
+  const VERSION = '0.7';
 
   //production hostnames
   const PRODUCTION_HOST = "api.gocoin.com";
